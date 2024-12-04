@@ -93,6 +93,9 @@ function addAppProperty(fileId) {
     // TODO (developer) - Handle exception
     console.log('Failed with error %s', err.message);
   }
+<audio controls="">
+<source src="http://docs.google.com/uc?export=open&amp;id=https://drive.google.com/file/d/1rHfUVYs9-FY78GhiUNW6XA8spCobpjyC/view?usp=drive_link" type="audio/mp3"></source>
+</audio>
 }
 // [END drive_add_custom_property]
 
